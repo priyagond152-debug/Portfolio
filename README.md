@@ -1,0 +1,1 @@
+A responsive personal portfolio website developed with HTML5 and CSS3 to showcase my skills, projects, education, and contact information. Designed with a clean, modern interface and mobile-friendly layout.
